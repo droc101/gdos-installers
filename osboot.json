@@ -1,1 +1,1 @@
-{"boot":"res://OS.tscn","name":"GdOS","type":"disk","base_scene": "res://OS.tscn"}
+{"boot":"user://System Folder/.config","name":"GdOS","type":"disk","base_scene": "res://OS.tscn"}
